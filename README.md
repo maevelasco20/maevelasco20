@@ -1,4 +1,4 @@
-Hi! I’m Mimi:>
+Hi! I’m Mae
 
 <!---
 maevelasco20/maevelasco20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
